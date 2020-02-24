@@ -1,5 +1,5 @@
 /**
- * @license Highcharts Gantt JS v8.0.0 (2019-12-10)
+ * @license Highcharts Gantt JS v8.0.0 (2020-02-24)
  * @module highcharts/modules/gantt
  * @requires highcharts
  *
